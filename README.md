@@ -51,17 +51,7 @@ proctorvision/
 │── main.py
 │── requirements.txt
 
-
 ---
-
-## ▶️ Installation & Setup
-
-```bash
-git clone https://github.com/yourusername/proctorvision.git
-cd proctorvision
-pip install -r requirements.txt
-python main.py
-
 ⚠️ Limitations
 Accuracy depends on lighting and camera quality
 Audio detection may vary based on background noise
@@ -77,3 +67,16 @@ Shrikar Vidyasagar Gujjeti
 
 GitHub: https://github.com/ShrikarGujjeti
 LinkedIn: https://linkedin.com/in/shrikar-gujjeti
+
+---
+
+## ▶️ Installation & Setup
+
+```bash
+git clone https://github.com/yourusername/proctorvision.git
+cd proctorvision
+pip install -r requirements.txt
+python main.py
+
+
+
